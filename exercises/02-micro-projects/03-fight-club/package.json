@@ -1,0 +1,17 @@
+{
+  "name": "fight-club",
+  "version": "1.0.0",
+  "description": "Simple fighting game",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "codelex",
+  "license": "ISC",
+  "dependencies": {
+    "@types/prompts": "^2.0.9",
+    "prompts": "^2.4.0",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.5"
+  }
+}

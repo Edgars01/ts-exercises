@@ -1,0 +1,21 @@
+{
+  "name": "crypto-currencies",
+  "version": "1.0.0",
+  "description": "You must create a simple crypto currency converter.",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "codelex",
+  "license": "ISC",
+  "dependencies": {
+    "@types/fs-extra": "^9.0.3",
+    "@types/node-fetch": "^2.5.7",
+    "@types/prompts": "^2.0.9",
+    "fs-extra": "^9.0.1",
+    "node-fetch": "^2.6.1",
+    "prompts": "^2.4.0",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.5"
+  }
+}

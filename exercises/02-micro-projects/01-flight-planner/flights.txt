@@ -1,0 +1,15 @@
+2020.02.26 12:25 | San Jose -> San Francisco
+2020.02.26 14:30 | San Jose -> Anchorage
+2020.02.26 14:32 | New York -> Anchorage
+2020.02.26 15:48 | New York -> San Jose
+2020.02.27 06:20 | New York -> San Francisco
+2020.02.27 08:45 | New York -> Honolulu
+2020.02.27 09:10 | Anchorage -> New York
+2020.02.27 11:58 | Anchorage -> San Jose
+2020.02.27 16:00 | Honolulu -> New York
+2020.02.28 01:30 | Honolulu -> San Francisco
+
+2020.02.28 02:45 | Denver -> San Jose
+2020.02.28 11:20 | San Francisco -> New York
+2020.02.28 18:50 | San Francisco -> Honolulu
+2020.02.28 21:45 | San Francisco -> Denver
